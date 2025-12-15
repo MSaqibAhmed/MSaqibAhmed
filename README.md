@@ -10,8 +10,8 @@
 
  
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Back-End Web Development
-- 📫 Reach me Through Email saqibkhan4567892@gmail.com
+- 🌱 I’m currently learning MERN STACK DEVELOPMENT
+- 📫 Reach me Through Email muhammadsaqibahmed.dev@gmail.com
 <h3 align="center">Web Development</h3>
 
 <div align="center">
