@@ -2,16 +2,14 @@
 
 <div align="center">
   <a href="https://bento.me/kenangain">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=M.SaqibAhmed&description=🚀%20Full%20Stack%20Developer%20🌐%20|%20HTML,%20CSS,%20JS,%20Bootstrap,%20jQuery,%20JSON,%20GIT,%20MYSQL,%20PHP%20|%20Crafting%20Seamless%20Experiences!%20✨.&image=https://avatars.githubusercontent.com/u/153153100?v=4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=Saqib%20Ahmed&github=MSaqibAhmed" alt="MSaqibAhmed's Card" />
-
-
+    <img width="100%" src="https://cardivo.vercel.app/api?name=M.SaqibAhmed&description=🚀%20MERN%20Stack%20Developer%20🌐%20|%20MongoDB,%20Express,%20React,%20Node.js,%20Tailwind%20CSS%20|%20Building%20Modern%20Web%20Apps!%20✨.&image=https://avatars.githubusercontent.com/u/153153100?v=4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=Saqib%20Ahmed&github=MSaqibAhmed" alt="MSaqibAhmed's Card" />
   </a>
 </div>
 
- 
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning MERN STACK DEVELOPMENT
-- 📫 Reach me Through Email muhammadsaqibahmed.dev@gmail.com
+- 👀 I’m interested in Full Stack Web & App Development  
+- 🌱 I’m currently learning **Advanced MERN Stack & Tailwind CSS**  
+- 📫 Reach me Through Email: **muhammadsaqibahmed.dev@gmail.com**
+
 <h3 align="center">Web Development</h3>
 
 <div align="center">
@@ -24,34 +22,19 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50"/><br>HTML
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50"/><br>CSS
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-     <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>Bootstrap
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50"/><br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>React
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/><br>Tailwind
       </td>
     </tr>
   </tbody>
@@ -68,7 +51,10 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-       <img src="https://skillicons.dev/icons?i=php" width="50" height="50"/><br>PHP
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
       </td>
     </tr>
   </tbody>
@@ -85,7 +71,10 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-       <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>MYSQL
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>MySQL
       </td>
     </tr>
   </tbody>
@@ -97,15 +86,16 @@
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:saqibkhan4567892@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=saqibkhan4567892@gmail.com&size=square" alt="Saqib Ahmed" style="margin: 10px;">
+      <a href="mailto:muhammadsaqibahmed.dev@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=muhammadsaqibahmed.dev@gmail.com&size=square" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
       <a href="https://wa.me/qr/Y6ENLWBQOAP7J1" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Pakistan-+923442449531&size=square" alt="Pakistan-+92-344-244-9531" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Pakistan-+923442449531&size=square" style="margin: 10px;">
       </a>
     </td>
   </tr>
 </table>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
