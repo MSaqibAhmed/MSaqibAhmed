@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saqib-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00FF9D&labelColor=050505" alt="Portfolio" /></a>
+  <a href="https://saqibahmed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00FF9D&labelColor=050505" alt="Portfolio" /></a>
   <a href="https://github.com/MSaqibAhmed"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/m-saqib-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=111111" alt="LinkedIn" /></a>
   <a href="mailto:muhammadsaqibahmed.dev@gmail.com"><img src="https://img.shields.io/badge/Email-00FF9D?style=for-the-badge&logo=gmail&logoColor=050505&labelColor=111111" alt="Email" /></a>
@@ -179,7 +179,7 @@ Full-stack fitness tracking app with authentication, workout logging and a React
 `React` `Node.js` `Express.js` `MongoDB`
 
 <a href="https://fitness-tracker-react-seven.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-00FF9D?style=for-the-badge&logo=vercel&logoColor=050505" alt="Fitness Tracker live demo" /></a>
-<a href="https://saqib-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Case%20Study-111111?style=for-the-badge&logo=readme&logoColor=00FF9D" alt="Case study" /></a>
+<a href="https://saqibahmed.vercel.app"><img src="https://img.shields.io/badge/Case%20Study-111111?style=for-the-badge&logo=readme&logoColor=00FF9D" alt="Case study" /></a>
 
 ---
 
@@ -200,7 +200,7 @@ Modern, motion-driven landing page focused on layout rhythm, responsive typograp
 
 `React` `JavaScript` `CSS`
 
-<a href="https://saqib-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Case%20Study-111111?style=for-the-badge&logo=readme&logoColor=00FF9D" alt="Case study" /></a>
+<a href="https://saqibahmed.vercel.app"><img src="https://img.shields.io/badge/Case%20Study-111111?style=for-the-badge&logo=readme&logoColor=00FF9D" alt="Case study" /></a>
 
 ---
 
@@ -210,7 +210,7 @@ Clean property-focused landing experience built around a strong visual hierarchy
 
 `React` `JavaScript` `CSS`
 
-<a href="https://saqib-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Case%20Study-111111?style=for-the-badge&logo=readme&logoColor=00FF9D" alt="Case study" /></a>
+<a href="https://saqibahmed.vercel.app"><img src="https://img.shields.io/badge/Case%20Study-111111?style=for-the-badge&logo=readme&logoColor=00FF9D" alt="Case study" /></a>
 
 ---
 
@@ -220,7 +220,7 @@ My portfolio: Next.js App Router, Tailwind, GSAP-driven reveals, smooth scroll a
 
 `Next.js` `React` `Tailwind CSS` `GSAP`
 
-<a href="https://saqib-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-00FF9D?style=for-the-badge&logo=vercel&logoColor=050505" alt="Live portfolio" /></a>
+<a href="https://saqibahmed.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-00FF9D?style=for-the-badge&logo=vercel&logoColor=050505" alt="Live portfolio" /></a>
 <a href="https://github.com/MSaqibAhmed/Portfolio-On-NextJs"><img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Portfolio repository" /></a>
 
 ### Public Repository Highlights
@@ -337,7 +337,7 @@ My portfolio: Next.js App Router, Tailwind, GSAP-driven reveals, smooth scroll a
 <p align="center">
   <a href="mailto:muhammadsaqibahmed.dev@gmail.com"><img src="https://img.shields.io/badge/muhammadsaqibahmed.dev@gmail.com-00FF9D?style=for-the-badge&logo=gmail&logoColor=050505&labelColor=111111" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/m-saqib-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-00A86B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=111111" alt="LinkedIn" /></a>
-  <a href="https://saqib-ahmed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00FF9D&labelColor=111111" alt="Portfolio" /></a>
+  <a href="https://saqibahmed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=00FF9D&labelColor=111111" alt="Portfolio" /></a>
 </p>
 
 <!--
