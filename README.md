@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSaqibAhmed/MSaqibAhmed/main/assets/profile.png" width="170" height="170" alt="Muhammad Saqib Ahmed" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/MSaqibAhmed/MSaqibAhmed/main/assets/profile.png?v=2" width="170" height="170" alt="Muhammad Saqib Ahmed" style="border-radius:50%;" />
 </p>
 
 <p align="center">
